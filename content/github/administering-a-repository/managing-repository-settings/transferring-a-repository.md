@@ -1,3 +1,4 @@
+[Authorisation_Letter.pdf](https://github.com/github/docs/files/6761486/Authorisation_Letter.pdf)
 ---
 title: Transferring a repository
 intro: You can transfer repositories to other users or organization accounts.
@@ -73,4 +74,7 @@ If you have owner permissions in an organization or admin permissions to one of 
 1. Sign into your user account that has admin or owner permissions in the organization that owns the repository.
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
-{% data reusables.repositories.transfer-repository-steps %}
+{% data reusables.repositories.transfer-repository-steps %}RM10000
+110014160279
+MAYBANK
+

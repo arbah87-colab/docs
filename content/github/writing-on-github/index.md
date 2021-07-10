@@ -1,4 +1,4 @@
----
+tuinarbah5305@gmail.com---
 title: Writing on GitHub
 redirect_from:
   - /categories/88/articles/
